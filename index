@@ -1,0 +1,1 @@
+NGINE=InnoDB FAULT CHARSET=utf8 COMMENT='播放历史';
